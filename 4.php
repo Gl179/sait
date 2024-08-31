@@ -21,3 +21,6 @@ while ($power_of_two <= 32) {
  $power_of_two *= 2; // Умножение переменной $power_of_two на 2 
 }
 echo "\n";
+
+
+echo "neww info";
